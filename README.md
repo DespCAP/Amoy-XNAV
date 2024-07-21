@@ -6,3 +6,6 @@ This project focuses on developing an X-ray Pulsar-Based Navigation (XNAV) syste
 
 - Pulsar data acquisition and processing
 - X-ray signal detection and analysis
+
+The prerequisites include downloading and callibrating HEAsoft: 
+<https://heasarc.gsfc.nasa.gov/lheasoft/linux.html>
